@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+🚀 Introducing My Calendar Expense Tracker! 📅💰
 
-This project is a starting point for a Flutter application.
+Managing expenses can be overwhelming, but what if tracking them was as simple as checking your calendar? That’s exactly what I aimed to solve with my latest project—a Calendar Expense Tracker!
+✨ Key Features:
 
-A few resources to get you started if this is your first Flutter project:
+✅ Calendar-based UI – View & manage expenses by date
+✅ Category-wise Expense Tracking – Know where your money goes
+✅ Smart Insights & Summaries – See trends at a glance
+✅ User-friendly Design – Simple, efficient, and intuitive
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+it shows the expences on the date also it can auto calculate the totoal expences in the month
