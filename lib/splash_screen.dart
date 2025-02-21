@@ -16,7 +16,8 @@ class _SplashScreenState extends State<SplashScreen> {
       Navigator.pushReplacement(
         context,
         MaterialPageRoute(
-            builder: (context) => CalendarPage()), // ✅ Navigate to CalendarPage
+            builder: (context) =>
+                const CalendarPage()), // ✅ Navigate to CalendarPage
       );
     });
   }

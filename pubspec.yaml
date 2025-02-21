@@ -12,6 +12,8 @@ dependencies:
   table_calendar: ^3.0.9
   flutter_native_splash: ^2.3.9
   cupertino_icons: ^1.0.8
+  shared_preferences: ^2.2.2  # ✅ Correct package name and latest stable version
+
 
 dev_dependencies:
   flutter_test:
