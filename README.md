@@ -17,5 +17,4 @@ it shows the expences on the date also it can auto calculate the totoal expences
 
 
 it is not connected to the database its only an flutter app 
-
-connecting to the database is under contruction
+it does not require any external database because
